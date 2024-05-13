@@ -1,6 +1,7 @@
 ## Dashboard: Historical Wildfires in USA
 
 Wildfires are a global phenomenon that leads to significant losses not only costly in money but also in terms of vegetation and wildlife. The dashboard aims to provide historical data and insights regarding wildfires in the USA, offering a comprehensive resource for understanding past trends on wildfire behavior.
+<mark> I have added this to my repository for convenience of viewing. The original contribution can be found in https://github.com/andrewsarracini/DATA551_FireAnalysis</mark>
 
 Link to the dashboard : https://wildfireanalysis.onrender.com 
 
